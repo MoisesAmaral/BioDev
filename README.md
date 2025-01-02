@@ -4,7 +4,7 @@
 ## Overview
 This project is a modern and minimalist bio link page tailored for developers. It uses HTML, CSS, and JavaScript to create a visually appealing and functional way to showcase your profile and links to platforms like GitHub, LinkedIn, Dev.to, and Stack Overflow.
 
-![Preview of Bio Link Page](https://via.placeholder.com/600x400)  
+![Preview of Bio Link Page](https://github.com/MoisesAmaral/BioDev/blob/main/assets/img/sample.png?raw=true)  
 _Sample preview of the bio link page_
 
 ## Features
